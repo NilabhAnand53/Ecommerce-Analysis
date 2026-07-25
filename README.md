@@ -78,9 +78,6 @@ Then run any file in `queries/` to see the analysis results. Run `verify.sql` if
 
 ## Screenshots
 
-**Schema overview**
-![Schema overview](screenshots/schema_overview.png)
-
 **Total revenue**
 ![Total revenue](screenshots/total_revenue.png)
 
