@@ -31,6 +31,7 @@ Five tables, linked through foreign keys:
 sql-project/
 ├── 00_setup.sql
 ├── verify.sql
+├── LICENSE
 ├── README.md
 ├── tables/
 │   ├── 01_customers.sql
