@@ -78,17 +78,22 @@ Then run any file in `queries/` to see the analysis results. Run `verify.sql` if
 
 ## Screenshots
 
-**Total revenue**
+### Total revenue
+
 ![Total revenue](screenshots/01_total_revenue.png)
 
-**Revenue by product (delivered orders)**
+### Revenue by product (delivered orders)
+
 ![Revenue by product](screenshots/02_revenue_by_product_delivered.png)
 
-**Top customers by spend**
+### Top customers by spend
+
 ![Top customers by spend](screenshots/03_top_customers_by_spend.png)
 
-**Top selling products**
+### Top selling products
+
 ![Top selling products](screenshots/04_top_selling_products.png)
 
-**Cancelled orders count**
+### Cancelled orders count
+
 ![Cancelled orders count](screenshots/05_cancelled_orders_count.png)
