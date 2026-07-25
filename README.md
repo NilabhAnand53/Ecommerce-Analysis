@@ -18,7 +18,7 @@ Five tables, linked through foreign keys:
 | order_items | Line items per order, linked to both orders and products, with quantity |
 | payments | Payment record per order, linked to orders, with payment mode and amount |
 
-**Relationships**
+## Relationships
 
 - `orders.customer_id` → `customers.customer_id`
 - `order_items.order_id` → `orders.order_id`
