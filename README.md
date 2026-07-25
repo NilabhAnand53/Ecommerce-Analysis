@@ -46,12 +46,11 @@ sql-project/
 │   ├── 04_top_selling_products.sql
 │   └── 05_cancelled_orders_count.sql
 └── screenshots/
-    ├── schema_overview.png
-    ├── total_revenue.png
-    ├── revenue_by_product_delivered.png
-    ├── top_customers_by_spend.png
-    ├── top_selling_products.png
-    └── cancelled_orders_count.png
+    ├── 01_total_revenue.png
+    ├── 02_revenue_by_product_delivered.png
+    ├── 03_top_customers_by_spend.png
+    ├── 04_top_selling_products.png
+    └── 05_cancelled_orders_count.png
 ```
 
 ## Setup
@@ -80,16 +79,16 @@ Then run any file in `queries/` to see the analysis results. Run `verify.sql` if
 ## Screenshots
 
 **Total revenue**
-![Total revenue](screenshots/total_revenue.png)
+![Total revenue](screenshots/01_total_revenue.png)
 
 **Revenue by product (delivered orders)**
-![Revenue by product](screenshots/revenue_by_product_delivered.png)
+![Revenue by product](screenshots/02_revenue_by_product_delivered.png)
 
 **Top customers by spend**
-![Top customers by spend](screenshots/top_customers_by_spend.png)
+![Top customers by spend](screenshots/03_top_customers_by_spend.png)
 
 **Top selling products**
-![Top selling products](screenshots/top_selling_products.png)
+![Top selling products](screenshots/04_top_selling_products.png)
 
 **Cancelled orders count**
-![Cancelled orders count](screenshots/cancelled_orders_count.png)
+![Cancelled orders count](screenshots/05_cancelled_orders_count.png)
