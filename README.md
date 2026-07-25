@@ -1,4 +1,4 @@
-# ecommerce-sql-analysis
+# ecommerce-analysis
 
 SQL project modeling an online store: customers, products, orders, order items, and payments. Includes table schema and a set of analysis queries covering revenue, top products, and customer spend.
 
